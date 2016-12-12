@@ -1,0 +1,14 @@
+{
+	},
+	"yelp_fusion": {
+		"app_id": "",
+		"app_secret": ""
+	},
+	"facebook_messenger": {
+		"page_access_token": "",
+		"verify_token": ""
+	},
+	"wit": {
+		"server_side_token": ""
+	}
+}
